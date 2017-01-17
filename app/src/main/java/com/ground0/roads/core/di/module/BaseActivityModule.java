@@ -1,8 +1,8 @@
-package com.ground0.portfolio.core.di.module;
+package com.ground0.roads.core.di.module;
 
 import android.app.Activity;
 import android.support.v7.app.AppCompatActivity;
-import com.ground0.portfolio.core.di.PerActivity;
+import com.ground0.roads.core.di.PerActivity;
 import dagger.Module;
 import dagger.Provides;
 

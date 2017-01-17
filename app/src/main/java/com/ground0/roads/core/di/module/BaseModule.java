@@ -1,8 +1,8 @@
-package com.ground0.portfolio.core.di.module;
+package com.ground0.roads.core.di.module;
 
 import android.content.Context;
-import com.ground0.portfolio.core.Event;
-import com.ground0.portfolio.core.components.BaseApplication;
+import com.ground0.roads.core.Event;
+import com.ground0.roads.core.components.BaseApplication;
 import com.ground0.repository.repository.UserRepositoryImpl;
 import com.ground0.repository.repository.UserRepository;
 import com.ground0.repository.store.CloudDataStore;

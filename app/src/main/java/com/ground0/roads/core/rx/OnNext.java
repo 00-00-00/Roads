@@ -1,4 +1,4 @@
-package com.ground0.portfolio.core.rx;
+package com.ground0.roads.core.rx;
 
 /**
  * Created by zer0 on 15/10/16.

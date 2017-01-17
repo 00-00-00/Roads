@@ -49,16 +49,4 @@ import rx.schedulers.Schedulers;
         .build();
     restImpl = retrofit.create(Store.class);
   }
-
-  @Override public Observable<List<Project>> getProjects() {
-    return restImpl.getProjects().lift(responseStatusOperator);
-  }
-
-  @Override public Observable<List<Skill>> getSkills() {
-    return restImpl.getSkills().lift(responseStatusOperator);
-  }
-
-  @Override public Observable<Self> getSelf() {
-    return restImpl.getSelf().lift(responseStatusOperator);
-  }
 }

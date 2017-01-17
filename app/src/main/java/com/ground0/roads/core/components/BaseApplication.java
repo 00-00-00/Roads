@@ -1,11 +1,11 @@
-package com.ground0.portfolio.core.components;
+package com.ground0.roads.core.components;
 
 import android.app.Application;
-import com.ground0.portfolio.core.Event;
-import com.ground0.portfolio.core.di.component.ApplicationComponent;
-import com.ground0.portfolio.core.di.component.DaggerApplicationComponent;
-import com.ground0.portfolio.core.di.module.BaseApplicationModule;
-import com.ground0.portfolio.core.di.module.BaseModule;
+import com.ground0.roads.core.Event;
+import com.ground0.roads.core.di.component.ApplicationComponent;
+import com.ground0.roads.core.di.component.DaggerApplicationComponent;
+import com.ground0.roads.core.di.module.BaseApplicationModule;
+import com.ground0.roads.core.di.module.BaseModule;
 import javax.inject.Inject;
 import rx.subjects.BehaviorSubject;
 

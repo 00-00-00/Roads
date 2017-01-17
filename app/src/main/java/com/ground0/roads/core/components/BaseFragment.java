@@ -1,4 +1,4 @@
-package com.ground0.portfolio.core.components;
+package com.ground0.roads.core.components;
 
 import android.content.Context;
 import android.content.Intent;
@@ -6,10 +6,9 @@ import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
 import android.support.v7.app.AppCompatActivity;
-import com.ground0.portfolio.activity.ProjectDetailActivity;
-import com.ground0.portfolio.core.di.component.ActivityComponent;
-import com.ground0.portfolio.core.di.component.DaggerActivityComponent;
-import com.ground0.portfolio.core.di.module.BaseActivityModule;
+import com.ground0.roads.core.di.component.ActivityComponent;
+import com.ground0.roads.core.di.component.DaggerActivityComponent;
+import com.ground0.roads.core.di.module.BaseActivityModule;
 import rx.subscriptions.CompositeSubscription;
 
 /**

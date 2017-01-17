@@ -1,4 +1,4 @@
-package com.ground0.portfolio.core.di;
+package com.ground0.roads.core.di;
 
 import java.lang.annotation.Retention;
 import javax.inject.Scope;

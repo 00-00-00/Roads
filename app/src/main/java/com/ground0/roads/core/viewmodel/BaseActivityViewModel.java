@@ -1,8 +1,8 @@
-package com.ground0.portfolio.core.viewmodel;
+package com.ground0.roads.core.viewmodel;
 
-import com.ground0.portfolio.core.components.BaseActivity;
-import com.ground0.portfolio.core.components.BaseApplication;
-import com.ground0.portfolio.core.rx.SubscriptionBuilder;
+import com.ground0.roads.core.components.BaseActivity;
+import com.ground0.roads.core.components.BaseApplication;
+import com.ground0.roads.core.rx.SubscriptionBuilder;
 import java.lang.ref.WeakReference;
 import javax.inject.Inject;
 import rx.subscriptions.CompositeSubscription;

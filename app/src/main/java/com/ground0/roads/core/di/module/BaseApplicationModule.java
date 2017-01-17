@@ -1,8 +1,8 @@
-package com.ground0.portfolio.core.di.module;
+package com.ground0.roads.core.di.module;
 
-import com.ground0.portfolio.core.components.BaseApplication;
-import com.ground0.portfolio.core.rx.ISubscriptionBuilder;
-import com.ground0.portfolio.core.rx.SubscriptionBuilder;
+import com.ground0.roads.core.components.BaseApplication;
+import com.ground0.roads.core.rx.ISubscriptionBuilder;
+import com.ground0.roads.core.rx.SubscriptionBuilder;
 import dagger.Module;
 import dagger.Provides;
 import javax.inject.Singleton;

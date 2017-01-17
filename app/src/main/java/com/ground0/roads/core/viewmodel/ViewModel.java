@@ -1,4 +1,4 @@
-package com.ground0.portfolio.core.viewmodel;
+package com.ground0.roads.core.viewmodel;
 
 /**
  * Created by zer0 on 9/10/16.

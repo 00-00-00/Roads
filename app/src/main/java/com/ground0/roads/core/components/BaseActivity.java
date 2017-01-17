@@ -1,12 +1,12 @@
-package com.ground0.portfolio.core.components;
+package com.ground0.roads.core.components;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
-import com.ground0.portfolio.core.Event;
-import com.ground0.portfolio.core.di.component.ApplicationComponent;
+import com.ground0.roads.core.Event;
+import com.ground0.roads.core.di.component.ApplicationComponent;
 import rx.subjects.PublishSubject;
 import rx.subscriptions.CompositeSubscription;
 
